@@ -8,5 +8,5 @@ def fibonacciinverso(n):
 
 #Ejemplo:
 n = 10
-print(f"Fibonacci inverso ({n} términos): {fibonacci_inverso(n)}")
+print(f"Fibonacci inverso ({n} términos): {fibonacciinverso(n)}")
 
