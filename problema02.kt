@@ -10,4 +10,4 @@ def fibonaccigeneralizado(a, b, n):
 
 #Ejemplo:
 a, b, n = 2, 3, 10
-print(f"Fibonacci generalizado ({n} términos, inicio {a}, {b}): {fibonacci_generalizado(a, b, n)}")
+print(f"Fibonacci generalizado ({n} términos, inicio {a}, {b}): {fibonaccigeneralizado(a, b, n)}")
